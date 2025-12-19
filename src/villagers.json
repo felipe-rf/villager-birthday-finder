@@ -1,0 +1,2750 @@
+[
+  {
+    "name": "Admiral",
+    "birthday": "01-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Admiral",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ed/Admiral_NH.png"
+  },
+  {
+    "name": "Agnes",
+    "birthday": "04-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Agnes",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/42/Agnes_NH.png"
+  },
+  {
+    "name": "Al",
+    "birthday": "10-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Al",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c4/Al_NH.png"
+  },
+  {
+    "name": "Alfonso",
+    "birthday": "06-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Alfonso",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e4/Alfonso_NH.png"
+  },
+  {
+    "name": "Alice",
+    "birthday": "08-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Alice",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e1/Alice_NH.png"
+  },
+  {
+    "name": "Alli",
+    "birthday": "11-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Alli",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8e/Alli_NH.png"
+  },
+  {
+    "name": "Amelia",
+    "birthday": "11-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Amelia",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/ab/Amelia_NH.png"
+  },
+  {
+    "name": "Anabelle",
+    "birthday": "02-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Anabelle",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d8/Anabelle_NH.png"
+  },
+  {
+    "name": "Anchovy (villager)",
+    "birthday": "03-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Anchovy%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ea/Anchovy_NH.png"
+  },
+  {
+    "name": "Angus",
+    "birthday": "04-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Angus",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5f/Angus_NH.png"
+  },
+  {
+    "name": "Anicotti",
+    "birthday": "02-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Anicotti",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/80/Anicotti_NH.png"
+  },
+  {
+    "name": "Annalisa",
+    "birthday": "02-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Annalisa",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f0/Annalisa_NH.png"
+  },
+  {
+    "name": "Annalise",
+    "birthday": "12-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Annalise",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c4/Annalise_NH.png"
+  },
+  {
+    "name": "Antonio",
+    "birthday": "10-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Antonio",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d4/Antonio_NH.png"
+  },
+  {
+    "name": "Apollo",
+    "birthday": "07-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Apollo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/28/Apollo_NH.png"
+  },
+  {
+    "name": "Apple (villager)",
+    "birthday": "09-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Apple%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/57/Apple_NH.png"
+  },
+  {
+    "name": "Astrid",
+    "birthday": "09-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Astrid",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d5/Astrid_NH.png"
+  },
+  {
+    "name": "Audie",
+    "birthday": "08-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Audie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1b/Audie_NH.png"
+  },
+  {
+    "name": "Aurora (villager)",
+    "birthday": "01-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Aurora%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/59/Aurora_NH.png"
+  },
+  {
+    "name": "Ava",
+    "birthday": "04-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ava",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/cc/Ava_NH.png"
+  },
+  {
+    "name": "Avery",
+    "birthday": "02-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Avery",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/dd/Avery_NH.png"
+  },
+  {
+    "name": "Axel",
+    "birthday": "03-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Axel",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/09/Axel_NH.png"
+  },
+  {
+    "name": "Baabara",
+    "birthday": "03-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Baabara",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/df/Baabara_NH.png"
+  },
+  {
+    "name": "Bam",
+    "birthday": "11-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bam",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2b/Bam_NH.png"
+  },
+  {
+    "name": "Bangle",
+    "birthday": "08-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bangle",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/68/Bangle_NH.png"
+  },
+  {
+    "name": "Barold",
+    "birthday": "03-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Barold",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/9d/Barold_NH.png"
+  },
+  {
+    "name": "Bea",
+    "birthday": "10-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bea",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c2/Bea_NH.png"
+  },
+  {
+    "name": "Beardo",
+    "birthday": "09-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Beardo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c0/Beardo_NH.png"
+  },
+  {
+    "name": "Beau",
+    "birthday": "04-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Beau",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d4/Beau_NH.png"
+  },
+  {
+    "name": "Becky",
+    "birthday": "12-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Becky",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/74/Becky_NH.png"
+  },
+  {
+    "name": "Bella",
+    "birthday": "12-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bella",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c0/Bella_NH.png"
+  },
+  {
+    "name": "Benedict",
+    "birthday": "10-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Benedict",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3a/Benedict_NH.png"
+  },
+  {
+    "name": "Benjamin",
+    "birthday": "08-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Benjamin",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/97/Benjamin_NH.png"
+  },
+  {
+    "name": "Beppe",
+    "birthday": "07-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Beppe",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/db/Beppe.png"
+  },
+  {
+    "name": "Bertha",
+    "birthday": "04-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bertha",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a7/Bertha_NH.png"
+  },
+  {
+    "name": "Bettina",
+    "birthday": "06-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bettina",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/bd/Bettina_NH.png"
+  },
+  {
+    "name": "Bianca (tiger)",
+    "birthday": "12-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bianca%20(tiger)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6f/Bianca_NH.png"
+  },
+  {
+    "name": "Biff",
+    "birthday": "03-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Biff",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/9c/Biff_NH.png"
+  },
+  {
+    "name": "Big Top",
+    "birthday": "10-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Big%20Top",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/80/Big_Top_NH.png"
+  },
+  {
+    "name": "Bill",
+    "birthday": "02-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bill",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c1/Bill_NH.png"
+  },
+  {
+    "name": "Billy",
+    "birthday": "03-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Billy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/26/Billy_NH.png"
+  },
+  {
+    "name": "Biskit",
+    "birthday": "05-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Biskit",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/78/Biskit_NH.png"
+  },
+  {
+    "name": "Bitty",
+    "birthday": "10-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bitty",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/74/Bitty_NH.png"
+  },
+  {
+    "name": "Blaire",
+    "birthday": "07-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Blaire",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/73/Blaire_NH.png"
+  },
+  {
+    "name": "Blanche",
+    "birthday": "12-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Blanche",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/df/Blanche_NH.png"
+  },
+  {
+    "name": "Bluebear",
+    "birthday": "06-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bluebear",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/49/Bluebear_NH.png"
+  },
+  {
+    "name": "Bob",
+    "birthday": "01-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bob",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ea/Bob_NH.png"
+  },
+  {
+    "name": "Bonbon",
+    "birthday": "03-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bonbon",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/cc/Bonbon_NH.png"
+  },
+  {
+    "name": "Bones",
+    "birthday": "08-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bones",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2b/Bones_NH.png"
+  },
+  {
+    "name": "Booker",
+    "birthday": "04-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Booker",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/dc/Booker_NLa.png"
+  },
+  {
+    "name": "Boomer",
+    "birthday": "02-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Boomer",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7d/Boomer_NH.png"
+  },
+  {
+    "name": "Boone",
+    "birthday": "09-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Boone",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/19/Boone_NH.png"
+  },
+  {
+    "name": "Boots",
+    "birthday": "08-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Boots",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3e/Boots_NH.png"
+  },
+  {
+    "name": "Boris",
+    "birthday": "11-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Boris",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ef/Boris_NH.png"
+  },
+  {
+    "name": "Boyd",
+    "birthday": "10-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Boyd",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/21/Boyd_NH.png"
+  },
+  {
+    "name": "Bree",
+    "birthday": "07-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bree",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/12/Bree_NH.png"
+  },
+  {
+    "name": "Brewster",
+    "birthday": "10-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Brewster",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/38/Brewster_NH.png"
+  },
+  {
+    "name": "Broccolo",
+    "birthday": "06-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Broccolo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/69/Broccolo_NH.png"
+  },
+  {
+    "name": "Bruce",
+    "birthday": "05-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bruce",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/08/Bruce_NH.png"
+  },
+  {
+    "name": "Bubbles",
+    "birthday": "09-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bubbles",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0e/Bubbles_NH.png"
+  },
+  {
+    "name": "Buck",
+    "birthday": "04-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Buck",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7f/Buck_NH.png"
+  },
+  {
+    "name": "Bud",
+    "birthday": "08-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bud",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1f/Bud_NH.png"
+  },
+  {
+    "name": "Bunnie",
+    "birthday": "05-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Bunnie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/98/Bunnie_NH_2.png"
+  },
+  {
+    "name": "Butch",
+    "birthday": "11-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Butch",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2b/Butch_NH.png"
+  },
+  {
+    "name": "Buzz",
+    "birthday": "12-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Buzz",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/05/Buzz_NH.png"
+  },
+  {
+    "name": "Cally",
+    "birthday": "09-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cally",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a6/Cally_NH.png"
+  },
+  {
+    "name": "Camofrog",
+    "birthday": "06-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Camofrog",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e1/Camofrog_NH.png"
+  },
+  {
+    "name": "Canberra",
+    "birthday": "05-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Canberra",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e6/Canberra_NH.png"
+  },
+  {
+    "name": "Candi",
+    "birthday": "04-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Candi",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/57/Candi_NH.png"
+  },
+  {
+    "name": "Carlo",
+    "birthday": "05-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Carlo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c4/Carlo.png"
+  },
+  {
+    "name": "Carmen (rabbit)",
+    "birthday": "01-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Carmen%20(rabbit)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/eb/Carmen_NH.png"
+  },
+  {
+    "name": "Caroline",
+    "birthday": "07-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Caroline",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/26/Caroline_NH.png"
+  },
+  {
+    "name": "Carrie",
+    "birthday": "12-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Carrie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6a/Carrie_NH.png"
+  },
+  {
+    "name": "Cashmere",
+    "birthday": "04-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cashmere",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/eb/Cashmere_NH.png"
+  },
+  {
+    "name": "Cece",
+    "birthday": "05-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cece",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1e/Cece_NL.png"
+  },
+  {
+    "name": "Celeste",
+    "birthday": "09-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Celeste",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f6/Celeste_NH.png"
+  },
+  {
+    "name": "Celia",
+    "birthday": "03-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Celia",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/00/Celia_NH.png"
+  },
+  {
+    "name": "Cesar",
+    "birthday": "09-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cesar",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/23/Cesar_NH.png"
+  },
+  {
+    "name": "Chadder",
+    "birthday": "12-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Chadder",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/32/Chadder_NH.png"
+  },
+  {
+    "name": "Chai",
+    "birthday": "03-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Chai",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/ab/Chai_PC.png"
+  },
+  {
+    "name": "Champ",
+    "birthday": "06-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Champ",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5b/CF_Champ_House.jpg"
+  },
+  {
+    "name": "Charlise",
+    "birthday": "04-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Charlise",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/ac/Charlise_NH.png"
+  },
+  {
+    "name": "Chelsea",
+    "birthday": "01-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Chelsea",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0c/Chelsea_NH.png"
+  },
+  {
+    "name": "Cheri",
+    "birthday": "03-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cheri",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d5/Cheri_NH.png"
+  },
+  {
+    "name": "Cherry (villager)",
+    "birthday": "05-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cherry%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3e/Cherry_NH.png"
+  },
+  {
+    "name": "Chester",
+    "birthday": "08-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Chester",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/af/Chester_NH.png"
+  },
+  {
+    "name": "Chevre",
+    "birthday": "03-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Chevre",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c9/Chevre_NH.png"
+  },
+  {
+    "name": "Chief",
+    "birthday": "12-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Chief",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/13/Chief_NH.png"
+  },
+  {
+    "name": "Chops",
+    "birthday": "10-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Chops",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/32/Chops_NH.png"
+  },
+  {
+    "name": "Chow",
+    "birthday": "07-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Chow",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d1/Chow_NH.png"
+  },
+  {
+    "name": "Chrissy",
+    "birthday": "08-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Chrissy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6a/Chrissy_NH.png"
+  },
+  {
+    "name": "Claude",
+    "birthday": "12-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Claude",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1f/Claude_NH.png"
+  },
+  {
+    "name": "Claudia",
+    "birthday": "11-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Claudia",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d6/Claudia_NH.png"
+  },
+  {
+    "name": "Clay (villager)",
+    "birthday": "10-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Clay%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6c/Clay_NH.png"
+  },
+  {
+    "name": "Cleo",
+    "birthday": "02-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cleo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e9/Cleo_NH.png"
+  },
+  {
+    "name": "Clyde",
+    "birthday": "05-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Clyde",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/bb/Clyde_NH.png"
+  },
+  {
+    "name": "Coach",
+    "birthday": "04-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Coach",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c1/Coach_NH.png"
+  },
+  {
+    "name": "Cobb",
+    "birthday": "10-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cobb",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/9d/Cobb_NH.png"
+  },
+  {
+    "name": "Coco",
+    "birthday": "03-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Coco",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/83/Coco_NH.png"
+  },
+  {
+    "name": "Cole",
+    "birthday": "08-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cole",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f6/Cole_NH.png"
+  },
+  {
+    "name": "Colton",
+    "birthday": "05-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Colton",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8c/Colton_NH.png"
+  },
+  {
+    "name": "Cookie",
+    "birthday": "06-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cookie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d9/Cookie_NH.png"
+  },
+  {
+    "name": "Copper",
+    "birthday": "06-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Copper",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/72/Copper_NLa.png"
+  },
+  {
+    "name": "Cousteau",
+    "birthday": "12-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cousteau",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1c/Cousteau_NH.png"
+  },
+  {
+    "name": "Cranston",
+    "birthday": "09-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cranston",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b7/Cranston_NH.png"
+  },
+  {
+    "name": "Croque",
+    "birthday": "07-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Croque",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/70/Croque_NH.png"
+  },
+  {
+    "name": "Cube",
+    "birthday": "01-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cube",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/10/Cube_NH.png"
+  },
+  {
+    "name": "Curlos",
+    "birthday": "05-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Curlos",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/37/Curlos_NH.png"
+  },
+  {
+    "name": "Curly",
+    "birthday": "07-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Curly",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3d/Curly_NH.png"
+  },
+  {
+    "name": "Curt",
+    "birthday": "07-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Curt",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/27/Curt_NH.png"
+  },
+  {
+    "name": "Cyd",
+    "birthday": "06-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cyd",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5d/Cyd_NH.png"
+  },
+  {
+    "name": "Cyrano",
+    "birthday": "03-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cyrano",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/48/Cyrano_NH.png"
+  },
+  {
+    "name": "Cyrus",
+    "birthday": "01-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Cyrus",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/4a/WlYszfo.jpg"
+  },
+  {
+    "name": "Daisy",
+    "birthday": "11-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Daisy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/96/Daisy_NH.png"
+  },
+  {
+    "name": "Daisy Mae",
+    "birthday": "03-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Daisy%20Mae",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/69/Daisy_Mae_NH.png"
+  },
+  {
+    "name": "Deena",
+    "birthday": "06-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Deena",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b8/Deena_NH.png"
+  },
+  {
+    "name": "Deirdre",
+    "birthday": "05-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Deirdre",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3c/Deirdre_NH.png"
+  },
+  {
+    "name": "Del",
+    "birthday": "05-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Del",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/46/Del_NH.png"
+  },
+  {
+    "name": "Deli",
+    "birthday": "05-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Deli",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/30/Deli_NH.png"
+  },
+  {
+    "name": "Derwin",
+    "birthday": "05-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Derwin",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/98/Derwin_NH.png"
+  },
+  {
+    "name": "Diana",
+    "birthday": "01-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Diana",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1f/Diana_NH.png"
+  },
+  {
+    "name": "Digby",
+    "birthday": "12-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Digby",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0c/Digby_AmF.png"
+  },
+  {
+    "name": "Diva",
+    "birthday": "10-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Diva",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/44/Diva_NH.png"
+  },
+  {
+    "name": "Dizzy",
+    "birthday": "07-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Dizzy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/63/Dizzy_NH.png"
+  },
+  {
+    "name": "Dobie",
+    "birthday": "02-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Dobie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/76/Dobie_NH.png"
+  },
+  {
+    "name": "Doc",
+    "birthday": "03-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Doc",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/cd/Doc_NH.png"
+  },
+  {
+    "name": "Dom",
+    "birthday": "03-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Dom",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/75/Dom_NH.png"
+  },
+  {
+    "name": "Don Resetti",
+    "birthday": "05-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Don%20Resetti",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2b/Don_NLa.png"
+  },
+  {
+    "name": "Dora",
+    "birthday": "02-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Dora",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/de/Dora_NH.png"
+  },
+  {
+    "name": "Dotty",
+    "birthday": "03-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Dotty",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/cc/Dotty_NH.png"
+  },
+  {
+    "name": "Dr. Shrunk",
+    "birthday": "01-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Dr.%20Shrunk",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/eb/Dr._Shrunk_NLa.png"
+  },
+  {
+    "name": "Drago",
+    "birthday": "02-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Drago",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f9/Drago_NH.png"
+  },
+  {
+    "name": "Drake",
+    "birthday": "06-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Drake",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e0/Drake_NH.png"
+  },
+  {
+    "name": "Drift",
+    "birthday": "10-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Drift",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/ac/Drift_NH.png"
+  },
+  {
+    "name": "Ed",
+    "birthday": "09-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ed",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c9/Ed_NH.png"
+  },
+  {
+    "name": "Egbert",
+    "birthday": "10-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Egbert",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3f/Egbert_NH.png"
+  },
+  {
+    "name": "Elise",
+    "birthday": "03-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Elise",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0c/Elise_NH.png"
+  },
+  {
+    "name": "Ellie",
+    "birthday": "05-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ellie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/38/Ellie_NH.png"
+  },
+  {
+    "name": "Elmer",
+    "birthday": "10-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Elmer",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/60/Elmer_NH.png"
+  },
+  {
+    "name": "Eloise",
+    "birthday": "12-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Eloise",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b1/Eloise_NH.png"
+  },
+  {
+    "name": "Elvis",
+    "birthday": "07-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Elvis",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/cc/Elvis_NH.png"
+  },
+  {
+    "name": "Epona",
+    "birthday": "11-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Epona",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/03/Epona_NL.png"
+  },
+  {
+    "name": "Erik",
+    "birthday": "07-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Erik",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/88/Erik_NH.png"
+  },
+  {
+    "name": "Eugene",
+    "birthday": "10-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Eugene",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/ab/Eugene_NH.png"
+  },
+  {
+    "name": "Eunice",
+    "birthday": "04-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Eunice",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/97/Eunice_NH.png"
+  },
+  {
+    "name": "Fang",
+    "birthday": "12-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Fang",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/9d/Fang_NH.png"
+  },
+  {
+    "name": "Fauna",
+    "birthday": "03-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Fauna",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/91/Fauna_NH.png"
+  },
+  {
+    "name": "Felicity",
+    "birthday": "03-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Felicity",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c7/Felicity_NH.png"
+  },
+  {
+    "name": "Felyne",
+    "birthday": "01-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Felyne",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/31/Felyne_HHD.png"
+  },
+  {
+    "name": "Filbert",
+    "birthday": "06-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Filbert",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/81/Filbert_NH.png"
+  },
+  {
+    "name": "Filly",
+    "birthday": "07-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Filly",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/03/Filly_HHD.png"
+  },
+  {
+    "name": "Flick",
+    "birthday": "05-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Flick",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f4/Flick_NH.png"
+  },
+  {
+    "name": "Flip",
+    "birthday": "11-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Flip",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c3/Flip_NH.png"
+  },
+  {
+    "name": "Flo",
+    "birthday": "09-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Flo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/bb/Flo_NH.png"
+  },
+  {
+    "name": "Flora",
+    "birthday": "02-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Flora",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8e/Flora_NH.png"
+  },
+  {
+    "name": "Flurry",
+    "birthday": "01-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Flurry",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/03/Flurry_NH.png"
+  },
+  {
+    "name": "Francine",
+    "birthday": "01-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Francine",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/34/Francine_NH.png"
+  },
+  {
+    "name": "Frank",
+    "birthday": "07-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Frank",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/75/Frank_NH.png"
+  },
+  {
+    "name": "Franklin",
+    "birthday": "10-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Franklin",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c3/Franklin_NLa.png"
+  },
+  {
+    "name": "Freckles",
+    "birthday": "02-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Freckles",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7d/Freckles_NH.png"
+  },
+  {
+    "name": "Freya",
+    "birthday": "12-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Freya",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ee/Freya_NH.png"
+  },
+  {
+    "name": "Friga",
+    "birthday": "10-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Friga",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8c/Friga_NH.png"
+  },
+  {
+    "name": "Frita",
+    "birthday": "07-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Frita",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d5/Frita_NH.png"
+  },
+  {
+    "name": "Frobert",
+    "birthday": "02-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Frobert",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3b/Frobert_NH.png"
+  },
+  {
+    "name": "Fuchsia",
+    "birthday": "09-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Fuchsia",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/67/Fuchsia_NH.png"
+  },
+  {
+    "name": "Gabi",
+    "birthday": "12-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gabi",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/86/Gabi_NH.png"
+  },
+  {
+    "name": "Gala",
+    "birthday": "03-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gala",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e6/Gala_NH.png"
+  },
+  {
+    "name": "Ganon",
+    "birthday": "02-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ganon",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8f/GanonPic.png"
+  },
+  {
+    "name": "Gaston",
+    "birthday": "10-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gaston",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/59/Gaston_NH.png"
+  },
+  {
+    "name": "Gayle",
+    "birthday": "05-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gayle",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5e/Gayle_NH.png"
+  },
+  {
+    "name": "Genji",
+    "birthday": "01-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Genji",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/67/Genji_NH.png"
+  },
+  {
+    "name": "Gigi",
+    "birthday": "08-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gigi",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/86/Gigi_NH.png"
+  },
+  {
+    "name": "Giovanni",
+    "birthday": "09-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Giovanni",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f2/Giovanni.png"
+  },
+  {
+    "name": "Gladys",
+    "birthday": "01-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gladys",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/77/Gladys_NH_2.png"
+  },
+  {
+    "name": "Gloria",
+    "birthday": "08-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gloria",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/14/Gloria_NH.png"
+  },
+  {
+    "name": "Goldie",
+    "birthday": "12-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Goldie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/72/Goldie_NH_2.png"
+  },
+  {
+    "name": "Gonzo",
+    "birthday": "10-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gonzo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/09/Gonzo_NH.png"
+  },
+  {
+    "name": "Goose",
+    "birthday": "10-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Goose",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/91/Goose_NH.png"
+  },
+  {
+    "name": "Gracie",
+    "birthday": "11-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gracie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/64/Gracie_NLa.png"
+  },
+  {
+    "name": "Graham",
+    "birthday": "06-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Graham",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a1/Graham_NH.png"
+  },
+  {
+    "name": "Grams",
+    "birthday": "04-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Grams",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/11/Grams_NLa.png"
+  },
+  {
+    "name": "Greta",
+    "birthday": "09-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Greta",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/bd/Greta_NH.png"
+  },
+  {
+    "name": "Grizzly",
+    "birthday": "07-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Grizzly",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/4b/Grizzly_NH.png"
+  },
+  {
+    "name": "Groucho",
+    "birthday": "10-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Groucho",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1d/Groucho_NH.png"
+  },
+  {
+    "name": "Gruff",
+    "birthday": "08-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gruff",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/25/Gruff_NH.png"
+  },
+  {
+    "name": "Gulliver",
+    "birthday": "05-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gulliver",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d7/Gulliver_NH.png"
+  },
+  {
+    "name": "Gwen",
+    "birthday": "01-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Gwen",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/be/Gwen_NH.png"
+  },
+  {
+    "name": "Hamlet",
+    "birthday": "05-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Hamlet",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/46/Hamlet_NH.png"
+  },
+  {
+    "name": "Hamphrey",
+    "birthday": "02-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Hamphrey",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a9/Hamphrey_NH.png"
+  },
+  {
+    "name": "Hans",
+    "birthday": "12-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Hans",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/15/Hans_NH.png"
+  },
+  {
+    "name": "Harriet",
+    "birthday": "01-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Harriet",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0b/Harriet_NLa.png"
+  },
+  {
+    "name": "Harry",
+    "birthday": "01-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Harry",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1a/Harry_NH.png"
+  },
+  {
+    "name": "Harvey",
+    "birthday": "08-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Harvey",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/ac/Harvey_NH.png"
+  },
+  {
+    "name": "Hazel",
+    "birthday": "08-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Hazel",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/17/Hazel_NH.png"
+  },
+  {
+    "name": "Henry",
+    "birthday": "09-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Henry",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/26/Henry_NH.png"
+  },
+  {
+    "name": "Hippeux",
+    "birthday": "10-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Hippeux",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/26/Hippeux_NH.png"
+  },
+  {
+    "name": "Holden",
+    "birthday": "06-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Holden",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/96/Holden_NL.png"
+  },
+  {
+    "name": "Hopkins",
+    "birthday": "03-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Hopkins",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c1/Hopkins_NH.png"
+  },
+  {
+    "name": "Hopper",
+    "birthday": "04-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Hopper",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/cb/Hopper_NH.png"
+  },
+  {
+    "name": "Hornsby",
+    "birthday": "03-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Hornsby",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/95/Hornsby_NH.png"
+  },
+  {
+    "name": "Huck",
+    "birthday": "07-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Huck",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/17/Huck_NH.png"
+  },
+  {
+    "name": "Hugh",
+    "birthday": "12-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Hugh",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b6/Hugh_NH.png"
+  },
+  {
+    "name": "Iggly",
+    "birthday": "11-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Iggly",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/68/Iggly_NH.png"
+  },
+  {
+    "name": "Ike",
+    "birthday": "05-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ike",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/34/Ike_NH.png"
+  },
+  {
+    "name": "Inkwell",
+    "birthday": "06-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Inkwell",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5a/Inkwell_%28New_Leaf%29.png"
+  },
+  {
+    "name": "Ione",
+    "birthday": "09-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ione",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/90/Ione_NH.png"
+  },
+  {
+    "name": "Jack",
+    "birthday": "10-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Jack",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e6/Jack_NH.png"
+  },
+  {
+    "name": "Jacob",
+    "birthday": "08-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Jacob",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3e/Jacob_NH.png"
+  },
+  {
+    "name": "Jacques",
+    "birthday": "06-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Jacques",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/03/Jacques_NH.png"
+  },
+  {
+    "name": "Jambette",
+    "birthday": "10-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Jambette",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/35/Jambette_NH.png"
+  },
+  {
+    "name": "Jay",
+    "birthday": "07-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Jay",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7f/Jay_NH.png"
+  },
+  {
+    "name": "Jeremiah",
+    "birthday": "07-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Jeremiah",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/93/Jeremiah_NH.png"
+  },
+  {
+    "name": "Jingle",
+    "birthday": "12-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Jingle",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a6/Jingle_NH.png"
+  },
+  {
+    "name": "Jitters",
+    "birthday": "02-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Jitters",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a6/Jitters_NH.png"
+  },
+  {
+    "name": "Joan",
+    "birthday": "01-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Joan",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/9a/Joan_NLa.png"
+  },
+  {
+    "name": "Joey",
+    "birthday": "01-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Joey",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/66/Joey_NH.png"
+  },
+  {
+    "name": "Judy",
+    "birthday": "03-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Judy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d4/Judy_NH.png"
+  },
+  {
+    "name": "Julia",
+    "birthday": "07-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Julia",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/42/Julia_NH.png"
+  },
+  {
+    "name": "Julian",
+    "birthday": "03-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Julian",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f2/Julian_NH.png"
+  },
+  {
+    "name": "June (villager)",
+    "birthday": "05-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/June%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/85/June_NH.png"
+  },
+  {
+    "name": "Kabuki",
+    "birthday": "11-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kabuki",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2a/Kabuki_NH.png"
+  },
+  {
+    "name": "Kaitlin",
+    "birthday": "06-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kaitlin",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/73/Kaitlin_CF.png"
+  },
+  {
+    "name": "Kapp'n",
+    "birthday": "07-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kapp'n",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8a/Kapp%27n_NH.png"
+  },
+  {
+    "name": "Katie",
+    "birthday": "10-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Katie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/93/Katie_NLa.png"
+  },
+  {
+    "name": "Katrina",
+    "birthday": "10-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Katrina",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a0/Katrina_NLa.png"
+  },
+  {
+    "name": "Katt",
+    "birthday": "04-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Katt",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c9/Katt_NH.png"
+  },
+  {
+    "name": "Keaton",
+    "birthday": "06-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Keaton",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3b/Keaton_NH.png"
+  },
+  {
+    "name": "Ken",
+    "birthday": "12-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ken",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e0/Ken_NH.png"
+  },
+  {
+    "name": "Ketchup",
+    "birthday": "07-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ketchup",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/42/Ketchup_NH.png"
+  },
+  {
+    "name": "Kevin",
+    "birthday": "04-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kevin",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/71/Kevin_NH.png"
+  },
+  {
+    "name": "Kicks",
+    "birthday": "11-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kicks",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c7/Kicks_NH.png"
+  },
+  {
+    "name": "Kid Cat",
+    "birthday": "08-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kid%20Cat",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c3/Kid_Cat_NH.png"
+  },
+  {
+    "name": "Kidd",
+    "birthday": "06-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kidd",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7a/Kidd_NH.png"
+  },
+  {
+    "name": "Kiki",
+    "birthday": "10-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kiki",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c5/Kiki_NH.png"
+  },
+  {
+    "name": "Kitt",
+    "birthday": "10-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kitt",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/75/Kitt_NH.png"
+  },
+  {
+    "name": "Kitty",
+    "birthday": "02-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kitty",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/21/Kitty_NH.png"
+  },
+  {
+    "name": "Klaus",
+    "birthday": "undefined-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Klaus",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5c/Klaus_NH.png"
+  },
+  {
+    "name": "Knox",
+    "birthday": "11-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Knox",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/03/Knox_NH.png"
+  },
+  {
+    "name": "Kody",
+    "birthday": "09-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kody",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/20/Kody_NH.png"
+  },
+  {
+    "name": "Kyle",
+    "birthday": "12-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Kyle",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/46/Kyle_NH.png"
+  },
+  {
+    "name": "Label",
+    "birthday": "10-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Label",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/de/Amiibo_104_Labelle.png"
+  },
+  {
+    "name": "Leif",
+    "birthday": "08-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Leif",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1c/Leif_NH.png"
+  },
+  {
+    "name": "Leila",
+    "birthday": "08-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Leila",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/bf/Leila_NLa.png"
+  },
+  {
+    "name": "Leilani",
+    "birthday": "09-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Leilani",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2f/2F2C640A-5A2D-4741-9D99-0D34CD1E9B6F.png"
+  },
+  {
+    "name": "Leonardo",
+    "birthday": "05-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Leonardo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0a/Leonardo_NH.png"
+  },
+  {
+    "name": "Leopold",
+    "birthday": "08-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Leopold",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3a/Leopold_NH.png"
+  },
+  {
+    "name": "Lily (villager)",
+    "birthday": "02-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lily%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/42/Lily_NH.png"
+  },
+  {
+    "name": "Limberg",
+    "birthday": "10-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Limberg",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b0/Limberg_NH.png"
+  },
+  {
+    "name": "Lionel",
+    "birthday": "07-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lionel",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/bb/Lionel_NH.png"
+  },
+  {
+    "name": "Lloid",
+    "birthday": "08-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lloid",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a6/Lloid_NH.png"
+  },
+  {
+    "name": "Lobo",
+    "birthday": "11-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lobo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d1/Lobo_NH.png"
+  },
+  {
+    "name": "Lolly",
+    "birthday": "03-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lolly",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/16/Lolly_NH.png"
+  },
+  {
+    "name": "Lopez",
+    "birthday": "08-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lopez",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/53/Lopez_NH.png"
+  },
+  {
+    "name": "Lottie",
+    "birthday": "09-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lottie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c5/Lottie_NH.png"
+  },
+  {
+    "name": "Louie",
+    "birthday": "03-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Louie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5a/Louie_NH.png"
+  },
+  {
+    "name": "Lucha",
+    "birthday": "12-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lucha",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/4a/Lucha_NH.png"
+  },
+  {
+    "name": "Lucky",
+    "birthday": "11-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lucky",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/59/Lucky_NH.png"
+  },
+  {
+    "name": "Lucy",
+    "birthday": "06-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lucy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e5/Lucy_NH.png"
+  },
+  {
+    "name": "Luna",
+    "birthday": "02-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Luna",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d9/Luna_NH.png"
+  },
+  {
+    "name": "Lyman",
+    "birthday": "10-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Lyman",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a5/Lyman_NH.png"
+  },
+  {
+    "name": "Mabel",
+    "birthday": "05-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Mabel",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/80/Mabel_NH.png"
+  },
+  {
+    "name": "Mac",
+    "birthday": "11-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Mac",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/ab/Mac_NH.png"
+  },
+  {
+    "name": "Maddie",
+    "birthday": "01-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Maddie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/06/Maddie_NH.png"
+  },
+  {
+    "name": "Maelle",
+    "birthday": "04-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Maelle",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/93/Maelle_NH.png"
+  },
+  {
+    "name": "Maggie",
+    "birthday": "09-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Maggie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b8/Maggie_NH.png"
+  },
+  {
+    "name": "Mallary",
+    "birthday": "11-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Mallary",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/28/Mallary_NH.png"
+  },
+  {
+    "name": "Maple",
+    "birthday": "06-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Maple",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a2/Maple_NH.png"
+  },
+  {
+    "name": "Marcel",
+    "birthday": "12-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Marcel",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3e/Marcel_NH.png"
+  },
+  {
+    "name": "Marcie",
+    "birthday": "05-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Marcie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2b/Marcie_NH.png"
+  },
+  {
+    "name": "Margie",
+    "birthday": "01-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Margie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/54/Margie_NH.png"
+  },
+  {
+    "name": "Marshal",
+    "birthday": "09-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Marshal",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/da/Marshal_NH.png"
+  },
+  {
+    "name": "Marty",
+    "birthday": "04-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Marty",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a9/Marty_PC.png"
+  },
+  {
+    "name": "Mathilda",
+    "birthday": "11-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Mathilda",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/58/Mathilda_NH.png"
+  },
+  {
+    "name": "Medli",
+    "birthday": "12-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Medli",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/46/Medli_NL.png"
+  },
+  {
+    "name": "Megan",
+    "birthday": "03-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Megan",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/33/Megan_NH_2.png"
+  },
+  {
+    "name": "Melba",
+    "birthday": "04-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Melba",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f9/Melba_NH_1.png"
+  },
+  {
+    "name": "Merry",
+    "birthday": "06-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Merry",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/4f/Merry_NH.png"
+  },
+  {
+    "name": "Midge",
+    "birthday": "03-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Midge",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/af/Midge_NH.png"
+  },
+  {
+    "name": "Mint",
+    "birthday": "05-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Mint",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5b/Mint_NH.png"
+  },
+  {
+    "name": "Mira",
+    "birthday": "07-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Mira",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d1/Mira_NH.png"
+  },
+  {
+    "name": "Miranda",
+    "birthday": "04-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Miranda",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8c/Miranda_NH.png"
+  },
+  {
+    "name": "Mitzi",
+    "birthday": "09-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Mitzi",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/63/Mitzi_NH.png"
+  },
+  {
+    "name": "Moe",
+    "birthday": "01-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Moe",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a4/Moe_NH.png"
+  },
+  {
+    "name": "Molly",
+    "birthday": "03-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Molly",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/29/Molly_NH.png"
+  },
+  {
+    "name": "Monique",
+    "birthday": "09-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Monique",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/cc/Monique_NH.png"
+  },
+  {
+    "name": "Monty",
+    "birthday": "12-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Monty",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d7/Monty_NH.png"
+  },
+  {
+    "name": "Moose",
+    "birthday": "09-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Moose",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ee/Moose_NH.png"
+  },
+  {
+    "name": "Mott",
+    "birthday": "07-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Mott",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b8/Mott_NH.png"
+  },
+  {
+    "name": "Muffy",
+    "birthday": "02-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Muffy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/16/Muffy_NH.png"
+  },
+  {
+    "name": "Murphy",
+    "birthday": "12-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Murphy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7c/Murphy_NH.png"
+  },
+  {
+    "name": "Nan",
+    "birthday": "08-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Nan",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b8/Nan_NH.png"
+  },
+  {
+    "name": "Nana",
+    "birthday": "08-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Nana",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b1/Nana_NH.png"
+  },
+  {
+    "name": "Naomi",
+    "birthday": "02-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Naomi",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f6/Naomi_NH.png"
+  },
+  {
+    "name": "Nat",
+    "birthday": "07-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Nat",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/9c/Nat_NLa.png"
+  },
+  {
+    "name": "Nate",
+    "birthday": "08-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Nate",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/55/Nate_NH.png"
+  },
+  {
+    "name": "Nibbles",
+    "birthday": "07-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Nibbles",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/97/Nibbles_NH.png"
+  },
+  {
+    "name": "Nindori",
+    "birthday": "09-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Nindori",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/86/Nindori_AFe%2B.png"
+  },
+  {
+    "name": "Norma",
+    "birthday": "09-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Norma",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e7/Norma_NH.png"
+  },
+  {
+    "name": "O'Hare",
+    "birthday": "07-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/O'Hare",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/81/O%27_Hare_NH.png"
+  },
+  {
+    "name": "Octavian",
+    "birthday": "09-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Octavian",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1b/Octavian_NH.png"
+  },
+  {
+    "name": "Olaf",
+    "birthday": "05-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Olaf",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/11/Olaf_NH.png"
+  },
+  {
+    "name": "Olive",
+    "birthday": "07-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Olive",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5c/Olive_NH.png"
+  },
+  {
+    "name": "Olivia",
+    "birthday": "02-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Olivia",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/36/Olivia_NH.png"
+  },
+  {
+    "name": "Opal",
+    "birthday": "01-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Opal",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/ce/Opal_NH.png"
+  },
+  {
+    "name": "Ozzie",
+    "birthday": "05-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ozzie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3a/Ozzie_NH.png"
+  },
+  {
+    "name": "Pancetti",
+    "birthday": "11-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pancetti",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ec/Pancetti_NH.png"
+  },
+  {
+    "name": "Pango",
+    "birthday": "11-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pango",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d5/Pango_NH.png"
+  },
+  {
+    "name": "Paolo",
+    "birthday": "05-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Paolo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/59/Paolo_NH.png"
+  },
+  {
+    "name": "Papi",
+    "birthday": "01-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Papi",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a7/Papi_NH.png"
+  },
+  {
+    "name": "Pascal",
+    "birthday": "07-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pascal",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/03/Pascal_NH.png"
+  },
+  {
+    "name": "Pashmina",
+    "birthday": "12-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pashmina",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3e/Pashmina_NH.png"
+  },
+  {
+    "name": "Pate",
+    "birthday": "02-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pate",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6b/Pate_NH.png"
+  },
+  {
+    "name": "Patty",
+    "birthday": "05-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Patty",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f1/Patty_NH.png"
+  },
+  {
+    "name": "Paula",
+    "birthday": "03-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Paula",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0f/Paula_NH.png"
+  },
+  {
+    "name": "Pavé",
+    "birthday": "03-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pav%C3%A9",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/16/Pave_NLa.png"
+  },
+  {
+    "name": "Peaches",
+    "birthday": "11-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Peaches",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0d/Peaches_NH.png"
+  },
+  {
+    "name": "Peanut",
+    "birthday": "06-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Peanut",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d5/Peanut_NH.png"
+  },
+  {
+    "name": "Pecan",
+    "birthday": "09-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pecan",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/60/Pecan_NH.png"
+  },
+  {
+    "name": "Peck",
+    "birthday": "07-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Peck",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/44/Peck_NH.png"
+  },
+  {
+    "name": "Peewee",
+    "birthday": "09-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Peewee",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2a/Peewee_NH.png"
+  },
+  {
+    "name": "Peggy",
+    "birthday": "05-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Peggy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/28/Peggy_NH.png"
+  },
+  {
+    "name": "Pekoe",
+    "birthday": "05-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pekoe",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/df/Pekoe_NH.png"
+  },
+  {
+    "name": "Pelly",
+    "birthday": "03-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pelly",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e0/Pelly_NLa.png"
+  },
+  {
+    "name": "Penelope",
+    "birthday": "02-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Penelope",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/15/Penelope_NH.png"
+  },
+  {
+    "name": "Pete",
+    "birthday": "03-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pete",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2e/Pete_NLa.png"
+  },
+  {
+    "name": "Phil",
+    "birthday": "11-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Phil",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f2/Phil_NH.png"
+  },
+  {
+    "name": "Phineas",
+    "birthday": "06-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Phineas",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8d/Phineas_NLa.png"
+  },
+  {
+    "name": "Phoebe",
+    "birthday": "04-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Phoebe",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/50/Phoebe_NH.png"
+  },
+  {
+    "name": "Phyllis",
+    "birthday": "11-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Phyllis",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c4/Phyllis_NLa.png"
+  },
+  {
+    "name": "Pietro",
+    "birthday": "04-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pietro",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/fb/Pietro_NH.png"
+  },
+  {
+    "name": "Pinky",
+    "birthday": "09-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pinky",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/bf/Pinky_NH.png"
+  },
+  {
+    "name": "Piper",
+    "birthday": "04-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Piper",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/09/Piper_NH.png"
+  },
+  {
+    "name": "Pippy",
+    "birthday": "06-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pippy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a1/Pippy_NH.png"
+  },
+  {
+    "name": "Plucky",
+    "birthday": "10-12",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Plucky",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/63/Plucky_NH.png"
+  },
+  {
+    "name": "Pompom",
+    "birthday": "02-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pompom",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/32/Pompom_NH.png"
+  },
+  {
+    "name": "Poncho",
+    "birthday": "01-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Poncho",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f0/Poncho_NH.png"
+  },
+  {
+    "name": "Poppy",
+    "birthday": "08-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Poppy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c4/Poppy_NH.png"
+  },
+  {
+    "name": "Porter",
+    "birthday": "04-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Porter",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7d/Porter_NL.png"
+  },
+  {
+    "name": "Portia",
+    "birthday": "10-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Portia",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/ce/Portia_NH.png"
+  },
+  {
+    "name": "Prince",
+    "birthday": "07-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Prince",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a6/Prince_NH.png"
+  },
+  {
+    "name": "Puck",
+    "birthday": "02-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Puck",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/53/Puck_NH.png"
+  },
+  {
+    "name": "Puddles",
+    "birthday": "01-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Puddles",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f9/Puddles_NH.png"
+  },
+  {
+    "name": "Pudge",
+    "birthday": "06-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Pudge",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/87/Pudge_NH.png"
+  },
+  {
+    "name": "Punchy",
+    "birthday": "04-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Punchy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6d/Punchy_NH.png"
+  },
+  {
+    "name": "Purrl",
+    "birthday": "05-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Purrl",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a2/Purrl_NH.png"
+  },
+  {
+    "name": "Queenie",
+    "birthday": "11-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Queenie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f1/Queenie_NH.png"
+  },
+  {
+    "name": "Quillson",
+    "birthday": "12-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Quillson",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e4/Quillson_NH.png"
+  },
+  {
+    "name": "Raddle",
+    "birthday": "06-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Raddle",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7a/Raddle_NH.png"
+  },
+  {
+    "name": "Rasher",
+    "birthday": "04-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rasher",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e1/Rasher_NH.png"
+  },
+  {
+    "name": "Raymond",
+    "birthday": "10-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Raymond",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a4/Raymond_NH_1.png"
+  },
+  {
+    "name": "Redd",
+    "birthday": "10-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Redd",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/42/Redd_NH.png"
+  },
+  {
+    "name": "Reese",
+    "birthday": "07-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Reese",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7d/Amiibo_102_Reese.png"
+  },
+  {
+    "name": "Renée",
+    "birthday": "05-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ren%C3%A9e",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ef/Ren%C3%A9e_NH.png"
+  },
+  {
+    "name": "Resetti",
+    "birthday": "04-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Resetti",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/89/Resetti_AmF.png"
+  },
+  {
+    "name": "Rex",
+    "birthday": "07-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rex",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/78/Rex_NH.png"
+  },
+  {
+    "name": "Rhonda",
+    "birthday": "01-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rhonda",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/df/Rhonda_NH.png"
+  },
+  {
+    "name": "Ribbot",
+    "birthday": "02-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ribbot",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/94/Ribbot_NH.png"
+  },
+  {
+    "name": "Ricky",
+    "birthday": "09-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ricky",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8d/Ricky_NH.png"
+  },
+  {
+    "name": "Rizzo",
+    "birthday": "01-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rizzo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/69/Rizzo_NH.png"
+  },
+  {
+    "name": "Roald",
+    "birthday": "01-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Roald",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/63/Roald_NH.png"
+  },
+  {
+    "name": "Robin",
+    "birthday": "12-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Robin",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/85/Robin_NH.png"
+  },
+  {
+    "name": "Rocco",
+    "birthday": "08-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rocco",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/02/Rocco_NH.png"
+  },
+  {
+    "name": "Rocket",
+    "birthday": "04-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rocket",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/58/Rocket_NH.png"
+  },
+  {
+    "name": "Rod (villager)",
+    "birthday": "08-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rod%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ea/Rod_NH.png"
+  },
+  {
+    "name": "Rodeo",
+    "birthday": "10-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rodeo",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6c/Rodeo_NH.png"
+  },
+  {
+    "name": "Rodney",
+    "birthday": "11-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rodney",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/35/Rodney_NH.png"
+  },
+  {
+    "name": "Rolf",
+    "birthday": "08-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rolf",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/93/Rolf_NH.png"
+  },
+  {
+    "name": "Rooney",
+    "birthday": "12-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rooney",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/79/Rooney_NH.png"
+  },
+  {
+    "name": "Rory",
+    "birthday": "08-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rory",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/db/Rory_NH.png"
+  },
+  {
+    "name": "Roscoe",
+    "birthday": "06-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Roscoe",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8e/Roscoe_NH.png"
+  },
+  {
+    "name": "Rosie",
+    "birthday": "02-27",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rosie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/67/Rosie_NH.png"
+  },
+  {
+    "name": "Rover",
+    "birthday": "02-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rover",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/02/Rover_AmF.png"
+  },
+  {
+    "name": "Rowan",
+    "birthday": "08-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rowan",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/df/Rowan_NH.png"
+  },
+  {
+    "name": "Ruby",
+    "birthday": "12-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ruby",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/41/Ruby_NH.png"
+  },
+  {
+    "name": "Rudy",
+    "birthday": "12-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Rudy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7e/Rudy_NH.png"
+  },
+  {
+    "name": "Sable",
+    "birthday": "11-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sable",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/19/Sable_NH.png"
+  },
+  {
+    "name": "Saharah",
+    "birthday": "11-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Saharah",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c9/Saharah_NH.png"
+  },
+  {
+    "name": "Sally",
+    "birthday": "06-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sally",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a3/Sally_NH.png"
+  },
+  {
+    "name": "Samson",
+    "birthday": "07-05",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Samson",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/9b/Samson_NH.png"
+  },
+  {
+    "name": "Sandy",
+    "birthday": "10-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sandy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a9/Sandy_NH.png"
+  },
+  {
+    "name": "Sasha",
+    "birthday": "05-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sasha",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b7/NH_Sasha_House.png"
+  },
+  {
+    "name": "Savannah",
+    "birthday": "01-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Savannah",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/46/Savannah_NH.png"
+  },
+  {
+    "name": "Scoot",
+    "birthday": "06-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Scoot",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ec/Scoot_NH.png"
+  },
+  {
+    "name": "Shari",
+    "birthday": "04-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Shari",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/72/Shari_NH.png"
+  },
+  {
+    "name": "Sheldon",
+    "birthday": "02-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sheldon",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/ce/Sheldon_NH.png"
+  },
+  {
+    "name": "Shep",
+    "birthday": "11-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Shep",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c1/Shep_NH.png"
+  },
+  {
+    "name": "Sherb",
+    "birthday": "01-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sherb",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/5b/Sherb_NH_1.png"
+  },
+  {
+    "name": "Simon",
+    "birthday": "01-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Simon",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/68/Simon_NH.png"
+  },
+  {
+    "name": "Skye",
+    "birthday": "03-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Skye",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d1/Skye_NH.png"
+  },
+  {
+    "name": "Sly",
+    "birthday": "undefined-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sly",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/70/Sly_NH.png"
+  },
+  {
+    "name": "Snake",
+    "birthday": "11-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Snake",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/ec/Snake_NH.png"
+  },
+  {
+    "name": "Snooty (villager)",
+    "birthday": "10-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Snooty%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/63/Snooty_NH.png"
+  },
+  {
+    "name": "Soleil",
+    "birthday": "08-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Soleil",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/de/Soleil_NH.png"
+  },
+  {
+    "name": "Sparro",
+    "birthday": "11-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sparro",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/32/Sparro_NH.png"
+  },
+  {
+    "name": "Spike",
+    "birthday": "06-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Spike",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f1/Spike_NH.png"
+  },
+  {
+    "name": "Spork",
+    "birthday": "09-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Spork",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c2/Spork_NH.png"
+  },
+  {
+    "name": "Sprinkle",
+    "birthday": "02-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sprinkle",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/44/Sprinkle_NH.png"
+  },
+  {
+    "name": "Sprocket",
+    "birthday": "12-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sprocket",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/8b/Sprocket_NH.png"
+  },
+  {
+    "name": "Static",
+    "birthday": "07-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Static",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/68/Static_NH.png"
+  },
+  {
+    "name": "Stella",
+    "birthday": "04-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Stella",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/95/Stella_NH.png"
+  },
+  {
+    "name": "Sterling",
+    "birthday": "12-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sterling",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/4f/Sterling_NH.png"
+  },
+  {
+    "name": "Stinky",
+    "birthday": "08-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Stinky",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/9c/Stinky_NH.png"
+  },
+  {
+    "name": "Stitches",
+    "birthday": "02-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Stitches",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/56/Stitches_NH.png"
+  },
+  {
+    "name": "Stu",
+    "birthday": "04-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Stu",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/fa/Stu_NH.png"
+  },
+  {
+    "name": "Sydney",
+    "birthday": "06-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sydney",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3f/Sydney_NH.png"
+  },
+  {
+    "name": "Sylvana",
+    "birthday": "10-22",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sylvana",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/fc/Sylvana_NH.png"
+  },
+  {
+    "name": "Sylvia",
+    "birthday": "05-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Sylvia",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/93/Sylvia_NH.png"
+  },
+  {
+    "name": "T-Bone",
+    "birthday": "05-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/T-Bone",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e0/T-Bone_NH.png"
+  },
+  {
+    "name": "Tabby",
+    "birthday": "08-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tabby",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/2f/Tabby_NH.png"
+  },
+  {
+    "name": "Tad",
+    "birthday": "08-03",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tad",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/67/Tad_NH.png"
+  },
+  {
+    "name": "Tammi",
+    "birthday": "04-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tammi",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/a8/Tammi_NH.png"
+  },
+  {
+    "name": "Tammy",
+    "birthday": "06-23",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tammy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/aa/Tammy_NH.png"
+  },
+  {
+    "name": "Tangy",
+    "birthday": "06-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tangy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6f/Tangy_NH.png"
+  },
+  {
+    "name": "Tank",
+    "birthday": "05-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tank",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d9/Tank_NH.png"
+  },
+  {
+    "name": "Tasha",
+    "birthday": "11-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tasha",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/35/Tasha_NH.png"
+  },
+  {
+    "name": "Teddy",
+    "birthday": "09-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Teddy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b9/Teddy_NH.png"
+  },
+  {
+    "name": "Tex",
+    "birthday": "10-06",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tex",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/44/Tex_NH.png"
+  },
+  {
+    "name": "Tia",
+    "birthday": "11-18",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tia",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0d/Tia_NH.png"
+  },
+  {
+    "name": "Tiffany",
+    "birthday": "01-09",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tiffany",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/f/f0/Tiffany_NH.png"
+  },
+  {
+    "name": "Timbra",
+    "birthday": "10-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Timbra",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6f/Timbra_NH.png"
+  },
+  {
+    "name": "Tipper",
+    "birthday": "08-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tipper",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/75/Tipper_NH.png"
+  },
+  {
+    "name": "Tom",
+    "birthday": "12-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tom",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/d1/Tom_NH.png"
+  },
+  {
+    "name": "Tom Nook",
+    "birthday": "05-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tom%20Nook",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e3/Tom_Nook_NH.png"
+  },
+  {
+    "name": "Tortimer",
+    "birthday": "12-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tortimer",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/4/4c/Tortimer_NLa.png"
+  },
+  {
+    "name": "Truffles",
+    "birthday": "07-28",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Truffles",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/eb/Truffles_NH.png"
+  },
+  {
+    "name": "Tucker",
+    "birthday": "09-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tucker",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7c/Tucker_NH.png"
+  },
+  {
+    "name": "Tutu",
+    "birthday": "09-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tutu",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/9/93/Tutu_NH.png"
+  },
+  {
+    "name": "Twiggy",
+    "birthday": "07-13",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Twiggy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/67/Twiggy_NH.png"
+  },
+  {
+    "name": "Tybalt",
+    "birthday": "08-19",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Tybalt",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0f/Tybalt_NH.png"
+  },
+  {
+    "name": "Ursala",
+    "birthday": "01-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Ursala",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/65/Ursala_NH.png"
+  },
+  {
+    "name": "Velma",
+    "birthday": "01-14",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Velma",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/59/Velma_NH.png"
+  },
+  {
+    "name": "Vesta",
+    "birthday": "04-16",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Vesta",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7c/Vesta_NH.png"
+  },
+  {
+    "name": "Vic",
+    "birthday": "12-29",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Vic",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1d/Vic_NH.png"
+  },
+  {
+    "name": "Viché",
+    "birthday": "07-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Vich%C3%A9",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e7/Vich%C3%A9_NL.png"
+  },
+  {
+    "name": "Victoria",
+    "birthday": "07-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Victoria",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/d/da/Victoria_NH.png"
+  },
+  {
+    "name": "Violet (villager)",
+    "birthday": "09-01",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Violet%20(villager)",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/6b/Violet_NH.png"
+  },
+  {
+    "name": "Vivian",
+    "birthday": "01-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Vivian",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/24/Vivian_NH.png"
+  },
+  {
+    "name": "Vladimir",
+    "birthday": "08-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Vladimir",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/75/Vladimir_NH.png"
+  },
+  {
+    "name": "Wade",
+    "birthday": "10-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Wade",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/52/Wade_NH.png"
+  },
+  {
+    "name": "Walker",
+    "birthday": "06-10",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Walker",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/0/0f/Walker_NH.png"
+  },
+  {
+    "name": "Walt",
+    "birthday": "04-24",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Walt",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/bf/Walt_NH.png"
+  },
+  {
+    "name": "Wardell",
+    "birthday": "02-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Wardell",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/1/1b/Wardell_NH%28DLC%29.png"
+  },
+  {
+    "name": "Wart Jr.",
+    "birthday": "08-21",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Wart%20Jr.",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/89/Wart_Jr_NH.png"
+  },
+  {
+    "name": "Weber",
+    "birthday": "06-30",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Weber",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/66/Weber_NH.png"
+  },
+  {
+    "name": "Wendell",
+    "birthday": "02-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Wendell",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/5/52/Wendell_NLa.png"
+  },
+  {
+    "name": "Wendy",
+    "birthday": "08-15",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Wendy",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/23/Wendy_NH.png"
+  },
+  {
+    "name": "Whitney",
+    "birthday": "09-17",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Whitney",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/36/Whitney_NH.png"
+  },
+  {
+    "name": "Wilbur",
+    "birthday": "07-04",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Wilbur",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/3/3b/Wilbur_NH.png"
+  },
+  {
+    "name": "Willow",
+    "birthday": "11-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Willow",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/6/62/Willow_NH.png"
+  },
+  {
+    "name": "Winnie",
+    "birthday": "01-31",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Winnie",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/b/b8/Winnie_NH.png"
+  },
+  {
+    "name": "Wisp",
+    "birthday": "02-26",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Wisp",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/73/Ac_A255_Screen_Shot.png"
+  },
+  {
+    "name": "Wolf Link",
+    "birthday": "12-02",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Wolf%20Link",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/8/82/Wolf_Link_%28New_Leaf%29.png"
+  },
+  {
+    "name": "Wolfgang",
+    "birthday": "11-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Wolfgang",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/a/aa/Wolfgang_NH.png"
+  },
+  {
+    "name": "Yuka",
+    "birthday": "07-20",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Yuka",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/ca/Yuka_NH.png"
+  },
+  {
+    "name": "Zell",
+    "birthday": "06-07",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Zell",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/c/c0/Zell_NH.png"
+  },
+  {
+    "name": "Zipper T. Bunny",
+    "birthday": "03-11",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Zipper%20T.%20Bunny",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/e/e3/Zipper_NH.png"
+  },
+  {
+    "name": "Zucker",
+    "birthday": "03-08",
+    "wiki": "https://animalcrossing.fandom.com/wiki/Zucker",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/7/7f/Zucker_NH.png"
+  },
+  {
+    "name": "Étoile",
+    "birthday": "12-25",
+    "wiki": "https://animalcrossing.fandom.com/wiki/%C3%89toile",
+    "image": "https://static.wikia.nocookie.net/animalcrossing/images/2/23/%C3%89toile_PC.png"
+  }
+]
