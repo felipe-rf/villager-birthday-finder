@@ -1,8 +1,15 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import villagers from "./villagers.json";
 import "./App.css";
 
-function normalizeBirthday(input) {
+interface Villager {
+  name: string;
+  birthday: string;
+  wiki: string;
+  image: string;
+}
+
+function normalizeBirthday(input: string): string | null {
   // Expect DD/MM or DD-MM
   const match = input.trim().match(/^(\d{2})[\/-](\d{2})$/);
   if (!match) return null;
@@ -17,7 +24,7 @@ function normalizeBirthday(input) {
   return `${month}-${day}`;
 }
 
-function formatDateInput(value) {
+function formatDateInput(value: string): string {
   // Remove everything except digits
   const digits = value.replace(/\D/g, "").slice(0, 4);
 
@@ -28,10 +35,9 @@ function formatDateInput(value) {
   return `${digits.slice(0, 2)}/${digits.slice(2)}`;
 }
 
-
 function App() {
   const [dateInput, setDateInput] = useState("");
-  const [results, setResults] = useState([]);
+  const [results, setResults] = useState<Villager[]>([]);
   const [error, setError] = useState("");
 
   const handleSearch = () => {
@@ -44,9 +50,7 @@ function App() {
     }
 
     setError("");
-    const found = villagers.filter(
-      (v) => v.birthday === normalized
-    );
+    const found = villagers.filter((v) => v.birthday === normalized);
     setResults(found);
   };
 
@@ -55,20 +59,20 @@ function App() {
       <h1>Villager Birthday Finder 🎂</h1>
       <p>Enter your birthday (DD-MM or DD/MM)</p>
 
-<input
-  type="text"
-  placeholder="DD/MM (e.g. 09/06)"
-  value={dateInput}
-  onChange={(e) => {
-    const formatted = formatDateInput(e.target.value);
-    setDateInput(formatted);
-  }}
-  onKeyDown={(e) => {
-    if (e.key === "Enter") {
-      handleSearch();
-    }
-  }}
-/>
+      <input
+        type="text"
+        placeholder="DD/MM (e.g. 09/06)"
+        value={dateInput}
+        onChange={(e) => {
+          const formatted = formatDateInput(e.target.value);
+          setDateInput(formatted);
+        }}
+        onKeyDown={(e) => {
+          if (e.key === "Enter") {
+            handleSearch();
+          }
+        }}
+      />
 
       <button onClick={handleSearch}>Find</button>
 
@@ -115,30 +119,30 @@ function App() {
         <p>No villagers found for this date.</p>
       )}
       <footer className="footer">
-  <p>
-    This is a non-commercial  <strong>fan project</strong> created for educational purposes and is{" "}
-    <strong>not affiliated with or endorsed by Nintendo</strong>.
-  </p>
+        <p>
+          This is a non-commercial <strong>fan project</strong> created for
+          educational purposes and is{" "}
+          <strong>not affiliated with or endorsed by Nintendo</strong>.
+        </p>
 
-  <p>
-    Animal Crossing and all related characters, names, and images are © Nintendo.
-  </p>
+        <p>
+          Animal Crossing and all related characters, names, and images are ©
+          Nintendo.
+        </p>
 
-  <p>
-    Villager data and images are sourced from the{" "}
-    <a
-      href="https://animalcrossing.fandom.com"
-      target="_blank"
-      rel="noopener noreferrer"
-    >
-      Animal Crossing Fandom Wiki
-    </a>.
-  </p>
-
-</footer>
-
+        <p>
+          Villager data and images are sourced from the{" "}
+          <a
+            href="https://animalcrossing.fandom.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Animal Crossing Fandom Wiki
+          </a>
+          .
+        </p>
+      </footer>
     </div>
-    
   );
 }
 
